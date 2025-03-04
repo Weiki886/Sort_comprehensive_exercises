@@ -499,7 +499,6 @@ public class Personage_Sort {
                 default:
                     System.out.println("\n无效选择，请重新输入！");
             }
-            scanner.close();
         }
     }
  }
