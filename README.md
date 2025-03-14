@@ -8,7 +8,6 @@
 
 - **exercises.Personage.java**  
   定义了一个 `Personage` 类，用于描述人物的基本属性和能力值，包括姓名、统率、武力、智力、政治、魅力、特技以及各兵种适性。该类提供了构造方法、各属性的 getter 方法以及一个格式化输出人物信息的 `display()` 方法.  
-  citeturn0file0
 
 - **exercises.Personage_Sort.java**  
   实现了数据加载与多种排序算法，包括：  
